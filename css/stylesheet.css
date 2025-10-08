@@ -37,6 +37,20 @@ dt{
     text-decoration: none;
     font-weight: bold;
 }
+.langButton{
+    background-color: #8E1616;
+    color: white;
+    border: none;
+    padding: 1%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.langButton:hover{
+    background-color: #D84040;
+}
 #linkedinIcon{
     width: 20px;
     padding: 0;
