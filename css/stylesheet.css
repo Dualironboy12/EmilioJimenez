@@ -44,12 +44,13 @@ dt{
 }
 .fileLink{
     padding: 0;
-    color: inherit;
+    color: #8E1616;
     text-decoration: none;
 }
 .fileLink:hover{
     color: #8E1616;
     text-decoration: underline;
+    font-weight: bold;
 }
 .langButton{
     background-color: #8E1616;
